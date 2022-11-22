@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 import './NavBar.css'
 function NavBar() {
   return (
-    <Navbar bg="light" variant="white" expand="lg" className="sticky-top shadow p-3 mb-5 rounded">
+    <Navbar bg="light" expand="lg" className="sticky-top shadow p-3 mb-5 rounded">
         <Container>
             <Navbar.Brand href="/" className='brand'>Travel</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
