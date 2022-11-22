@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Roboto:wght@500&display=swap');
+
+.brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #7743DB;
+}

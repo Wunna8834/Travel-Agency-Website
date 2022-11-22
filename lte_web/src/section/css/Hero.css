@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.title {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.bg-img {
+    background-image: url("https://images.unsplash.com/photo-1488085061387-422e29b40080?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80");
+   
+}
+
+.control-width {
+    width: 15vw;
+}
+
+.text-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.number-title {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container-img {
+    background-image: url("https://img.freepik.com/free-vector/happy-family-travelling-by-car-with-camping-equipment-top_74855-10751.jpg?w=826&t=st=1669030806~exp=1669031406~hmac=ddc5bc6321c2076153b835608a2bb69ab0821a28bd955313d48ca3d665df189d");
+    object-fit: cover;
+    filter: brightness(95%);
+    
+    
+}
